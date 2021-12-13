@@ -8,6 +8,7 @@ namespace SkysGitDemo
         {
             var team = new HockeyTeam { Namn = "Tre Kronor" };
             Console.WriteLine("Hello World3!");
+            Console.WriteLine("Hej hopp");
         }
     }
 }
