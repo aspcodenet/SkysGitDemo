@@ -6,7 +6,8 @@ namespace SkysGitDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var team = new HockeyTeam { Namn = "Tre Kronor" };
+            Console.WriteLine("Hello World3!");
         }
     }
 }
